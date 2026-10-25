@@ -1,0 +1,22 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Coverage output
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# Sensitive files and local railway records
+admin.txt
+users.txt
+passengers.txt
+bookings.txt
+
+# Temporary files
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/

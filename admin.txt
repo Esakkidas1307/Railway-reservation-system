@@ -1,4 +1,0 @@
-ADMIN_START
-admin
-admin
-ADMIN_END
